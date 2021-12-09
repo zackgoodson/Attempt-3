@@ -1,0 +1,28 @@
+
+.header-text {
+    color: rgb(199, 198, 214);
+}
+.header-font {
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
+}
+.body-text {
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
+}
+.resume-size {
+    font-size: x-large;
+    font-weight: bold;
+}
+.center-mine {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.about-header {
+    font-size: xx-large;
+}
