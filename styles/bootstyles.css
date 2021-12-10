@@ -52,3 +52,7 @@ body{
 .label-font{
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.header-tableau-text {
+    text-align: center;
+}
